@@ -1,6 +1,6 @@
 # A Teacher-student Framework for Unsupervised Speech Enhancement Using Noise Remixing Training and Two-stage Inference
 
-This is the official GitHub repo for ""A Teacher-student Framework for Unsupervised Speech Enhancement Using Noise Remixing Training and Two-stage Inference"". 
+This is the official GitHub repo for "A Teacher-student Framework for Unsupervised Speech Enhancement Using Noise Remixing Training and Two-stage Inference". 
 
 The code is mainly built on the [facebookresearch/denoiser](https://github.com/facebookresearch/denoiser). For now, the complete code is in [our forked denoiser](https://github.com/Sinica-SLAM/denoiser/tree/nytt). We are still working on moving the structure to an independent place.
 
